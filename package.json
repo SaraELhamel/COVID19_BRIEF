@@ -1,0 +1,16 @@
+{
+  "name": "brief-covid1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^2.9.4",
+    "electron": "^11.2.0",
+    "node-fetch": "^2.6.1"
+  }
+}
